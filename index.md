@@ -1,5 +1,5 @@
 # Andrew Lee, 4th Year CogSci ML 
-**A15647969** 
+**PID: A15647969** 
 
 My motto: 
 > Win the day 
@@ -18,5 +18,5 @@ My motto:
 3. Importance of proper project planning 
 
 ## Goals for this class 
-- [] Learn good habits/foundational knowledge
-- [] Deliver a solid final project
+- [ ] Learn good habits/foundational knowledge
+- [ ] Deliver a solid final project
