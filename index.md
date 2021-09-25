@@ -1,7 +1,8 @@
 # Andrew Lee, 4th Year CogSci ML 
 ** A15647969 ** 
 
-My motto: > Win the day 
+My motto: 
+> Win the day 
 
 ## Things I did over the summer 
 - Finish Almost 1000 epsiodes of One Piece ![One Piece](SHC.png) 
@@ -12,8 +13,8 @@ My motto: > Win the day
 
 ## 3 things I learned at my internship 
 1. I learned the [dangers](https://www.tecmint.com/10-most-dangerous-commands-you-should-never-execute-on-linux/) of the `rm -rf` command when a third of my directories/files got deleted because I messed up wild card syntax. 
-2. ofmr
-3. fvf
+2. ASK QUESTIONS!!! Don't try to do everything by yourself.
+3. Importance of proper project planning 
 
-## Goals for this year 
+## Goals for this class 
 - [ ]
