@@ -1,12 +1,13 @@
 # Andrew Lee, 4th Year CogSci ML 
-** A15647969 ** 
+**A15647969** 
 
 My motto: 
 > Win the day 
 
 ## Things I did over the summer 
 - Finish Almost 1000 epsiodes of One Piece ![One Piece](SHC.png) 
-- Play Chess; ~1700 rapid on Chess.com - Intern at Clover 
+- Play Chess; ~1700 rapid on [Chess.com ](https://www.chess.com)
+- Intern at Clover 
 - Take CSE 100 and CSE 101 
 - Gym religously 
 - Eat like a horse 
@@ -17,4 +18,5 @@ My motto:
 3. Importance of proper project planning 
 
 ## Goals for this class 
-- [ ]
+- [Learn good habits/foundational knowledge]
+- [Deliver a solid final project]
