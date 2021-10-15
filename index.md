@@ -2,7 +2,7 @@
 **PID: A15647969** 
 
 My motto: 
-> Win the day 
+> Fake it till you become it
 
 ## Things I did over the summer 
 - Finish Almost 1000 epsiodes of [One Piece](https://github.com/YelllowBelly/CSE_110_Lab1/blob/main/SHC.png) ![One Piece](SHC.png) 
