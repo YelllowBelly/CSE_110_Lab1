@@ -7,7 +7,7 @@ My motto:
 ## Things I did over the summer 
 - Finish Almost 1000 epsiodes of [One Piece](https://github.com/YelllowBelly/CSE_110_Lab1/blob/main/SHC.png) ![One Piece](SHC.png) 
 - Play Chess: ~1700 rapid on [Chess.com ](https://www.chess.com) ![Chess](chess.png)
-- Intern at Clover on the crash reporting team ![Clover][clover.jpeg]
+- Intern at Clover on the crash reporting team ![Clover][clover.png]
 - Take CSE 100 and CSE 101 
 - Gym religously 
 - Eat like a horse 
